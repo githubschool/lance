@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+ma boi lookin like a four eyed old yeller
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
